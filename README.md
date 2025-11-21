@@ -38,12 +38,14 @@ Question-Pair-Similarity/
 
 ⚙️ Installation & Setup
 1. Create a virtual environment (recommended)
-    python -m venv venv
-    source venv/bin/activate      # Linux/Mac
-    venv\Scripts\activate         # Windows
 
-2. Install all dependencies
-    pip install -r requirements.txt
+        python -m venv venv
+        source venv/bin/activate      # Linux/Mac
+        venv\Scripts\activate         # Windows
+
+3. Install all dependencies
+
+       pip install -r requirements.txt
 
 📥 Large File Notice (GitHub File Size Limits)
 
