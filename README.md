@@ -85,14 +85,6 @@ generate similarity scores
 
 All deep learning outputs (models, embeddings, padded sequences) will be saved automatically.
 
-📊 What This Project Demonstrates
-
-✔ Comparison between TF-IDF classical models & Siamese LSTM neural networks
-✔ Impact of custom vs. pre-trained embeddings on performance
-✔ End-to-end NLP pipeline: preprocessing → vectorization → modeling
-✔ Handling text similarity using both ML & DL approaches
-✔ Real-world reproducible architecture for semantic similarity tasks
 
 🔍 Running Similarity Checks
-
 After training, you may use functions to compare any pair of questions and obtain a similarity score (duplicate or not) using your trained models.
