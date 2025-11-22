@@ -22,9 +22,13 @@ sequential modeling for semantic similarity
 
 📁 Project Structure
 Question-Pair-Similarity/
+
 │
+
 ├── Images/
+
 │   └── (all the images are saved here)  
+
 │
 ├── Model/
 │   └── (trained models will be saved here automatically)
