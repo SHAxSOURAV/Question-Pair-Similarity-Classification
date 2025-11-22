@@ -27,12 +27,14 @@ Question-Pair-Similarity/
 
 ├── Images/
 
-│      └── (all the images are saved here)  
+│         └── (all the images are saved here)  
 
 │
+
 ├── Model/
 
 │      └── (trained models will be saved here automatically)
+
 │
 
 ├── train_model.ipynb
