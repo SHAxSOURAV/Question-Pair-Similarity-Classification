@@ -27,17 +27,24 @@ Question-Pair-Similarity/
 
 ├── Images/
 
-│   └── (all the images are saved here)  
+│      └── (all the images are saved here)  
 
 │
 ├── Model/
-│   └── (trained models will be saved here automatically)
+
+│      └── (trained models will be saved here automatically)
 │
+
 ├── train_model.ipynb
-|── english_stopwords.pkl
-|── train.csv
-|── glove.6B.300d.txt
-├── requirements.txt
+
+├──  english_stopwords.pkl
+
+├──  train.csv
+
+├──  glove.6B.300d.txt
+
+├──  requirements.txt
+
 └── README.md
 
 ⚙️ Installation & Setup
